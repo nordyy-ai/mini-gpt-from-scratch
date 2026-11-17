@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# ML artifacts
+checkpoints/
+runs/
+*.pt
+*.pth
