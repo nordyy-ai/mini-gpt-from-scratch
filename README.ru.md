@@ -1,5 +1,4 @@
-[![English](./README.md)](README.md)
-[![Русский](./README.ru.md)](README.ru.md)
+<big>[English](README.md) | [Русский](README.ru.md)</big>
 
 # MiniGPT с нуля
 

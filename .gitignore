@@ -17,3 +17,5 @@ checkpoints/
 runs/
 *.pt
 *.pth
+dist/
+*.safetensors
